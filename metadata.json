@@ -1,0 +1,6 @@
+{
+  "name": "Global Trade Portal & Logistics Platform",
+  "description": "A premium, responsive corporate portal for B2B global sourcing, real-time logistics tracking, interactive trade dashboards, and AI-enabled trade intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
